@@ -27,14 +27,14 @@
 
 - 👯 "Keen to initiate a dynamic **software engineering career** at a prominent technology firm."
 
-- 📝 I regularly code [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
-
 - 📫 Reach me through **muhammadasimkundi@gmail.com** 
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
 - ⚡ Hobby: **"Book Reading."**
 
+- 📝 Here is the link to my old github account [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
+  
 ---
 
 <h1 align="center">Technologies</h1>
