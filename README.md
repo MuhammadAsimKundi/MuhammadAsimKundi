@@ -59,7 +59,7 @@
 
 ---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-asim-kundi&" alt="muhammad-asim-kundi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MuhammadAsimKundi&card_width=498" alt="muhammad-asim-kundi" /></p>
 
 ---
 
