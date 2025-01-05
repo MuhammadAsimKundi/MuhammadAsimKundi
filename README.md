@@ -23,6 +23,8 @@
 
 - 🔭 Currently working **as Software Engineer at 100DEVS.**
 
+-  🔭 Inshallah would complete 40% work on my project **AI ENHANCED SKIN DISEASE DETECTION PLATFORM** till 23-jan-2025.
+
 - 🌱 Devoted to **acquiring knowledge from every encounter; I am a student of life.**
 
 - 👯 "Keen to initiate a dynamic **software engineering career** at a prominent technology firm."
