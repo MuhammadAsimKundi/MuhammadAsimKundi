@@ -31,7 +31,7 @@
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
-- ⚡ Hobby: **"Book Reading."**
+- ⚡ Hobby: **"Book Reading and cricket."**
 
 - 📝 Here is the link to my old github account [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
 
