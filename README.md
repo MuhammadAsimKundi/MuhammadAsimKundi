@@ -35,8 +35,6 @@
 
 - 📝 Here is the link to my old github account [https://github.com/Muhammad-Asim-Kundi](https://github.com/Muhammad-Asim-Kundi)
 
-- ⚡ February Goal: **"Inshallah by the end of this April month Ongoing Course would be completed."**
-
   
 ---
 
