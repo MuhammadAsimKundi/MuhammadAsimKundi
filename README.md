@@ -27,7 +27,7 @@
 
 - 👯 "Keen to initiate a dynamic **software engineering career** at a prominent technology firm."
 
-- 📫 Reach me through **muhammadasimkundi@gmail.com** 
+- 📫 Reach me through **muhammadasimkundi@gmail.com || Wattsapp +923466537604** 
 
 - ⚡ Fun fact: **"I am changing the world with one line of code."**
 
